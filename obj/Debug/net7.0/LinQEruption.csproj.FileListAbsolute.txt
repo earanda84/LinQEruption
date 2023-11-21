@@ -1,0 +1,15 @@
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/bin/Debug/net7.0/LinQEruption
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/bin/Debug/net7.0/LinQEruption.deps.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/bin/Debug/net7.0/LinQEruption.runtimeconfig.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/bin/Debug/net7.0/LinQEruption.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/bin/Debug/net7.0/LinQEruption.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/LinQEruption.csproj.AssemblyReference.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/LinQEruption.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/LinQEruption.AssemblyInfoInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/LinQEruption.AssemblyInfo.cs
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/LinQEruption.csproj.CoreCompileInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/LinQEruption.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/refint/LinQEruption.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/LinQEruption.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/LinQEruption.genruntimeconfig.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_7/dia_5/LinQEruption/obj/Debug/net7.0/ref/LinQEruption.dll
